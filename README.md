@@ -35,9 +35,9 @@ npm install
 gulp serve
 ```
 
-* "Compilation" des sources pour les publier sur l'hebergement
+* Publication du site sur github pages (gh-pages)
 ```
- gulp  : pour "compiler" les sources dans le dossier disp
+ gulp deploy
 ```
 
 ## docs 
