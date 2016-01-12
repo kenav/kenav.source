@@ -35,7 +35,7 @@ npm install
 gulp serve
 ```
 
-* "Compilation" des sources pour les publier
+* "Compilation" des sources pour les publier sur l'hebergement
 ```
  gulp  : pour "compiler" les sources dans le dossier disp
 ```
