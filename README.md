@@ -47,6 +47,7 @@ gulp serve
 
 
 ## Autre 
+* analyse de l'activite sur http://kenav.github.io : [https://www.google.com/analytics/web]
 
 * [File Appendix](https://github.com/google/web-starter-kit/blob/master/docs/file-appendix.md) - What do the different files here do?
 * [Using Material Design Lite's Sass](https://github.com/google/web-starter-kit/blob/master/docs/mdl-sass.md) - how to get MDL's Sass working with WSK
