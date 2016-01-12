@@ -6,9 +6,39 @@
 
 ## Commandes
 
-* npm install 
-* gulp serve : pour le dev ;)
-* gulp  : pour "compiler" les sources dans le dossier disp
+### GIT 
+* Recuperer un projet : 
+``` 
+git clone https://github.com/kenav/kenav.source.git
+```
+
+* Enregister les modification :
+``` 
+git add . 
+git commit -m "message"
+```
+
+* Publier les modifications
+```
+git push origin master
+```
+
+### Projet
+
+* Installation des dependances :
+```
+npm install 
+```
+
+* Execution des sources en local
+```
+gulp serve
+```
+
+* "Compilation" des sources pour les publier
+```
+ gulp  : pour "compiler" les sources dans le dossier disp
+```
 
 ## docs 
 
